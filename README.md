@@ -5,4 +5,4 @@ It works by copying and pasting whatever you input. I made it press enter twice 
 This program works for linux and windows. 
 
 Installation:
-run ´pip install requirements.txt´
+run pip install requirements.txt
