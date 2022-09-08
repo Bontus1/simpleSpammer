@@ -15,7 +15,7 @@ from colorama import Fore, Back, Style
 def clearShell():
     if sys.platform=="win32":
         os.system("cls")
-    else os.system("clear")
+    else: os.system("clear")
     
 def mainFunction():
     pyperclip.copy(Name)
